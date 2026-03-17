@@ -10,7 +10,7 @@ This repository acts as my digital notebook, a place to document concepts, proje
 - To keep track of my learning journey  
 - To organize knowledge across different fields  
 - To revisit and revise whenever needed  
-- To inspire continuous learning  
+- To inspire continuous learning  .
 
 ---
 
