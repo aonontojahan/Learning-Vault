@@ -20,7 +20,7 @@ I plan to organize my learnings into categories such as:
 - 📊 Data & Machine Learning  
 - 🌐 Networking & Systems  
 - 📘 Notes & Summaries  
-- 🔬 Research & Experiments  .
+- 🔬 Research & Experiments...
 
 ---
 
