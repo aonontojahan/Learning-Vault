@@ -2,7 +2,7 @@
 
 Welcome to my **Learning Vault**  a personal repository where I store everything I learn, explore, and experiment with throughout my journey of growth.
 
-This repository acts as my digital notebook, a place to document concepts, projects, code snippets, notes, and resources that I discover along the way....
+This repository acts as my digital notebook, a place to document concepts, projects, code snippets, notes, and resources that I discover along the way.
 
 ---
 
